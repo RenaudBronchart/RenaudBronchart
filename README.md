@@ -1,6 +1,6 @@
 👋 Hi, I’m Renaud Bronchart  
 
-About Me  
+## About Me  
 - 🎓 Student Multiplatform Application Development (DAM).
 - 🏡 French native speaker, passionate about software development and technology 
 - 💻 Knowledgeable  with Java, Kotlin, Python, SQL, and FireBase.  
